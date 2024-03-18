@@ -8,9 +8,13 @@ namespace ConsoleApp6
 {
     internal class NewClass
     {
+
         static void MyMethod()
         {
 
         }
+
+        //komentar
+
     }
 }
